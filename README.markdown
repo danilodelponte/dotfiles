@@ -2,10 +2,6 @@
 
 ## dotfiles
 
-Your dotfiles are how you personalize your system. These are mine. The very
-prejudiced mix: OS X, zsh, Rails, git, homebrew, rbenv. If you
-match up along most of those lines, you may dig my dotfiles.
-
 If you're interested in the philosophy behind why projects like these are
 awesome, you might want to [read Zach Holman's post on the
 subject](http://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/).
@@ -71,5 +67,5 @@ said, I do use this as *my* dotfiles, so there's a good chance I may break
 something if I forget to make a check for a dependency.
 
 If you're brand-new to the project and run into any blockers, please
-[open an issue](https://github.com/pcasaretto/dotfiles/issues) on this repository
+[open an issue](https://github.com/thiesen/dotfiles/issues) on this repository
 and I'd love to get it fixed for you!
