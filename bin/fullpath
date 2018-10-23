@@ -1,3 +1,0 @@
-#!/usr/bin/env ruby -w
-
-puts File.expand_path(ARGV.shift)
